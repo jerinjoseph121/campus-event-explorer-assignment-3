@@ -97,7 +97,7 @@ fun getCampusEvents(context: Context): List<CampusEvent> = listOf(
         description = context.getString(R.string.campus_event_eleven_description)
     ),
     CampusEvent(
-        id = 11L,
+        id = 12L,
         title = context.getString(R.string.campus_event_twelve_title),
         category = context.getString(R.string.campus_event_twelve_category),
         location = context.getString(R.string.campus_event_twelve_location),
