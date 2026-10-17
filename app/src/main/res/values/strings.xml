@@ -1,3 +1,90 @@
 <resources>
     <string name="app_name">Campus Event Explorer</string>
+    <!-- Event 1 -->
+    <string name="campus_event_one_title">Charles River 5K Fun Run</string>
+    <string name="campus_event_one_category">Sports</string>
+    <string name="campus_event_one_location">BU Beach</string>
+    <string name="campus_event_one_time">Sunday, November 1, 2026 at 8:00 AM</string>
+    <string name="campus_event_one_description">Join fellow students for a 5K run along the Charles River Esplanade, starting and finishing at BU Beach. Runners of all levels are welcome, and walkers can take the shorter 2K loop. Water stations will be set up along the route, and free snacks and t-shirts will be handed out at the finish line.</string>
+
+    <!-- Event 2 -->
+    <string name="campus_event_two_title">Mobile Development Meetup</string>
+    <string name="campus_event_two_category">Tech</string>
+    <string name="campus_event_two_location">CAS 214</string>
+    <string name="campus_event_two_time">Tuesday, October 27, 2026 at 6:30 PM</string>
+    <string name="campus_event_two_description">An informal meetup for students interested in Android and iOS development. Two students will give short demos of apps they built with Jetpack Compose and SwiftUI, followed by open discussion and project feedback. Bring your laptop if you want help debugging your own project. Pizza will be provided.</string>
+
+    <!-- Event 3 -->
+    <string name="campus_event_three_title">Fall Career Fair</string>
+    <string name="campus_event_three_category">Career</string>
+    <string name="campus_event_three_location">Agganis Arena</string>
+    <string name="campus_event_three_time">Wednesday, November 4, 2026 at 11:00 AM</string>
+    <string name="campus_event_three_description">Meet recruiters from over 100 companies hiring for internships and full-time roles in tech, finance, healthcare, and consulting. Bring printed copies of your resume and dress in business casual. A list of attending employers will be posted on Handshake the week before the fair.</string>
+
+    <!-- Event 4 -->
+    <string name="campus_event_four_title">Halloween Movie Night</string>
+    <string name="campus_event_four_category">Social</string>
+    <string name="campus_event_four_location">GSU Metcalf Ballroom</string>
+    <string name="campus_event_four_time">Friday, October 30, 2026 at 8:00 PM</string>
+    <string name="campus_event_four_description">Celebrate Halloween with a back to back screening of two classic horror films on the big screen. Costumes are encouraged, and there will be a costume contest between the two movies with prizes for the top three. Free popcorn, candy, and drinks will be available while supplies last.</string>
+
+    <!-- Event 5 -->
+    <string name="campus_event_five_title">Intro to Machine Learning Workshop</string>
+    <string name="campus_event_five_category">Tech</string>
+    <string name="campus_event_five_location">Center for Computing and Data Sciences</string>
+    <string name="campus_event_five_time">Thursday, November 5, 2026 at 5:00 PM</string>
+    <string name="campus_event_five_description">A hands-on beginner workshop covering the basics of machine learning using Python and scikit-learn. You will train a simple classification model on a real dataset and learn how to evaluate its accuracy. No prior ML experience is needed, but basic Python knowledge is recommended. Please bring a laptop with Python installed.</string>
+
+    <!-- Event 6 -->
+    <string name="campus_event_six_title">Resume Review Drop-In</string>
+    <string name="campus_event_six_category">Career</string>
+    <string name="campus_event_six_location">Center for Career Development, 100 Bay State Road</string>
+    <string name="campus_event_six_time">Tuesday, November 10, 2026 at 2:00 PM</string>
+    <string name="campus_event_six_description">Get one-on-one feedback on your resume from career advisors and alumni volunteers. Each review lasts about 15 minutes and is first come, first served. Bring a printed or digital copy of your resume and a job description you are targeting if you have one.</string>
+
+    <!-- Event 7 -->
+    <string name="campus_event_seven_title">Fall Jazz Ensemble Concert</string>
+    <string name="campus_event_seven_category">Music</string>
+    <string name="campus_event_seven_location">Tsai Performance Center</string>
+    <string name="campus_event_seven_time">Saturday, November 7, 2026 at 7:30 PM</string>
+    <string name="campus_event_seven_description">The BU Jazz Ensemble presents its fall concert featuring jazz standards along with original pieces composed by students. The performance runs about 90 minutes with a short intermission. Admission is free with a valid student ID, and doors open 30 minutes before the show.</string>
+
+    <!-- Event 8 -->
+    <string name="campus_event_eight_title">Intramural Basketball Tournament</string>
+    <string name="campus_event_eight_category">Sports</string>
+    <string name="campus_event_eight_location">FitRec</string>
+    <string name="campus_event_eight_time">Saturday, November 14, 2026 at 10:00 AM</string>
+    <string name="campus_event_eight_description">A single-day 3v3 basketball tournament open to all students. Teams can register online until November 10, and individual players without a team will be placed on one. Games are 15 minutes long, and the winning team receives championship shirts. Spectators are welcome.</string>
+
+    <!-- Event 9 -->
+    <string name="campus_event_nine_title">Midday Mindfulness Session</string>
+    <string name="campus_event_nine_category">Wellness</string>
+    <string name="campus_event_nine_location">Marsh Chapel</string>
+    <string name="campus_event_nine_time">Wednesday, October 28, 2026 at 12:30 PM</string>
+    <string name="campus_event_nine_description">Take a break from midterms with a 30 minute guided meditation and breathing session led by a wellness counselor. The session is beginner friendly and no experience is needed. Cushions and chairs will be provided, so just show up in comfortable clothing.</string>
+
+    <!-- Event 10 -->
+    <string name="campus_event_ten_title">BU Hack Night</string>
+    <string name="campus_event_ten_category">Tech</string>
+    <string name="campus_event_ten_location">Photonics Center</string>
+    <string name="campus_event_ten_time">Friday, November 13, 2026 at 6:00 PM</string>
+    <string name="campus_event_ten_description">A six hour hackathon where teams of up to four build a project around the theme of improving student life on campus. Mentors will be available throughout the night to help with design and debugging. Projects are judged at midnight, and the top three teams win prizes. Dinner and late night snacks are included.</string>
+
+    <!-- Event 11 -->
+    <string name="campus_event_eleven_title">Student Art Exhibition Opening</string>
+    <string name="campus_event_eleven_category">Arts</string>
+    <string name="campus_event_eleven_location">BU Art Galleries, 855 Commonwealth Ave</string>
+    <string name="campus_event_eleven_time">Thursday, November 12, 2026 at 6:00 PM</string>
+    <string name="campus_event_eleven_description">Opening night of the annual student art exhibition featuring paintings, photography, sculpture, and digital art from undergraduate and graduate students. Several of the artists will be present to talk about their work. Light refreshments will be served, and the exhibition stays open for three weeks.</string>
+
+    <!-- Event 12 -->
+    <string name="campus_event_twelve_title">Study Skills Workshop for Finals</string>
+    <string name="campus_event_twelve_category">Academic</string>
+    <string name="campus_event_twelve_location">Mugar Memorial Library</string>
+    <string name="campus_event_twelve_time">Wednesday, November 11, 2026 at 4:00 PM</string>
+    <string name="campus_event_twelve_description">Learn practical study techniques like spaced repetition, active recall, and time blocking to prepare for final exams. The workshop includes a short session on building a realistic study schedule for the last weeks of the semester. Handouts and a sample study planner will be provided to all attendees.</string>
+
+    <string name="search_events">Search events</string>
+    <string name="no_events_found">No events match your search</string>
+    <string name="share_event">Share event</string>
 </resources>
